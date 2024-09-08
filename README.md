@@ -1,4 +1,4 @@
-# Concurrency
+# Java Concurrency
 
 Inspired by few books, explaining in-depth Java multithreading, this repo is a set of practical snippets on the majority of Java concurrency:
 
